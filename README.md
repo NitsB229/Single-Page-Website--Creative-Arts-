@@ -1,4 +1,4 @@
-# Single-Page-Website-Page-for-artists-
+# Single-Page-Website--Creative-Arts-
 
 In this project, we'll craft a visually appealing and responsive website that highlights your expertise and accomplishments. Whether you're a designer, developer, artist, or simply want to showcase your work, this single-page portfolio will serve as an impressive online resume.
 Throughout this journey, we'll cover the following key aspects:
